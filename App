@@ -4,7 +4,7 @@ gggg
 oooo
 <<<<<<< Updated upstream
 ggg
-ggg
+gggtt
 ggg
 =======
 ttt
