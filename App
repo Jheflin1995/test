@@ -2,6 +2,10 @@ did this change it
 xxxx
 gggg
 oooo
+<<<<<<< Updated upstream
 ggg
 ggg
 ggg
+=======
+ttt
+>>>>>>> Stashed changes
